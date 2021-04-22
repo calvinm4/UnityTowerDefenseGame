@@ -1,1 +1,1 @@
-Tower Defense game created in Unity. This was a final project for a video game programming class at WashU. Must be ran in Unity.
+Tower Defense game created in Unity. This was a final project for a video game programming class at WashU. Must be ran in Unity or a mac executable can be downloaded from https://calvinmitchell.itch.io/cse450-tower-defense. Will run better in Unity.
